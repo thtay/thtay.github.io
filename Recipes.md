@@ -15,6 +15,7 @@ Lunches
 - Grain Bowl + Tofu + sweet potato
 - [Chickepea Salad](/recipes/ChickpeaSalad.md)
 - [Chopped Salad Bowl with Tuna](/recipes/Chopped%20Salad%20Bowl%20with%20Tuna.md)
+- [Sweet Green Salad Bowl](/recipes/SweetGreenSaladBowl.md)
 
 Dinner
 
