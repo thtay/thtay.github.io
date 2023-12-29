@@ -14,7 +14,7 @@ Lunches
 - Air-fried/Lightly fried Fish / Chicken for taco
 - Grain Bowl + Tofu + sweet potato
 - [Chickepea Salad](/recipes/ChickpeaSalad.md)
-- [Chopped Salad Bowl with Tuna](/recipes/Chopped%20Salad%20Bowl%20with%20Tuna.md)
+- [Chopped Salad Bowl with Tuna](/recipes/ChoppedSaladBowlwithTuna.md)
 - [Sweet Green Salad Bowl](/recipes/SweetGreenSaladBowl.md)
 
 Dinner
