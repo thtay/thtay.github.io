@@ -15,11 +15,11 @@ A SweetGreen inspired salad bowl with mixed rice.
 * 1/2 cup of cooked wild rice mix
 
 ## Dressing
-* 1/2 cup of [SweetGreen Cashew Salad Dressing](/recipes/SweetGreenSpicyCashewSaladDressing.md) (or other dressing as you see fit)
+* 1/2 cup of [SweetGreen Cashew Salad Dressing](/recipes/SweetGreenSpicyCashewSaladDressing.md)
 
 
 ## Steps
-1. Mix all ingredients and serve with dressing.
+1. Mix all ingredients and serve with dressing (you can change the dressing to whatever you see fit)
 
 ## Notes
 Original recipe is an image that is favorite on phone.
