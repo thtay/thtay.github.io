@@ -30,3 +30,7 @@ Dessert
 
 - Banana Bread
 - [Protein Brownie](/recipes/ProteinBrownie.md)
+
+Dressings
+
+- [Sweet Green Spicy Cashew Salad Dressing](/recipes/SweetGreenSpicyCashewSaladDressing.md)
