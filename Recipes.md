@@ -27,6 +27,10 @@ Dinner
 - Steamed fish + miso soup
 - [Fish/ Shrimp + Taco + Avacado + Spanish Salad](/recipes/ShrimpTostados.md)
 
+Vegetables
+
+- [Okra Stir Fry](/recipes/OkraStirFry.md)
+
 Dessert
 
 - Banana Bread
