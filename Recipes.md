@@ -30,12 +30,20 @@ Dinner
 Vegetables
 
 - [Okra Stir Fry](/recipes/OkraStirFry.md)
+- [Eggplant Curry](/recipes/EggplantCurry.md)
+- [Beans For Rice and Beans](/recipes/Beans.md)
+- [Sambar](/recipes/Sambar.md)
+- [Eggplant with Pepper](/recipes/EggplantPepper.md)
 
 Dessert
 
 - Banana Bread
 - [Protein Brownie](/recipes/ProteinBrownie.md)
 
-Dressings
+Dressings / Sauces
 
 - [Sweet Green Spicy Cashew Salad Dressing](/recipes/SweetGreenSpicyCashewSaladDressing.md)
+- [Thai Peanut Sauce](/recipes/ThaiPeanutSauce.md)
+
+Noodles
+- [Homemade Udon Noodles](/recipes/Homemade%20Udon%20Noodles.md)
